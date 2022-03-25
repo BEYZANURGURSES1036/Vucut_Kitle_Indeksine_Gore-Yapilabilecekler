@@ -39,4 +39,4 @@ def tavsiye():
     return C
 sonuc1=tavsiye()
 yazdırma={"Sonuçlarım":sonuc ,"Yapabileceklerim":sonuc1}
-yazdırma
+print(yazdırma)
